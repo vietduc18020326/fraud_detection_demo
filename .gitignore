@@ -1,0 +1,6 @@
+data/
+outputs/
+outputs_synthetic/
+__pycache__/
+.venv/
+*.pyc

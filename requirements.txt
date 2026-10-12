@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+xgboost
+matplotlib
+joblib
+streamlit
+# Tuỳ chọn: giải thích từng giao dịch trong demo (nếu không cài, demo vẫn chạy)
+shap
